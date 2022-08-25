@@ -48,7 +48,7 @@ Also, this application comes with the following capabilities:
 - An OpenAPI 2.0 definition hosted on: `/swagger/api`
 - A Healthcheck: `/health`
 
-### Building locally
+### Building locally on your machine
 
 To get started building this web application locally, you can either run the application natively or use the [IBM Cloud Developer Tools](https://cloud.ibm.com/docs/cli?topic=cloud-cli-getting-started) for containerization and easy deployment to IBM Cloud.
 
